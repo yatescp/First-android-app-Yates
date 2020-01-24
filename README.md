@@ -1,1 +1,1 @@
-# First-android-app-Yates
+CSCI 370 Mobile App Development HW2
